@@ -49,7 +49,7 @@
             android:layout_marginRight="20dp"
             android:layout_marginTop="5dp"
             android:ems="10"
-            android:hint="Piso"
+            android:hint="Piso combobox"
             android:inputType="number" />
 
         <EditText
@@ -72,7 +72,7 @@
             android:layout_marginRight="20dp"
             android:layout_marginTop="5dp"
             android:ems="10"
-            android:hint="Recurso"
+            android:hint="Recurso añadir estado ✔"
             android:inputType="textPersonName"
             android:text="" />
 
